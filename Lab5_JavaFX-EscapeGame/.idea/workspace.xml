@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28892941-1df3-4bb8-9555-606e2861f85c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cAqRwyTv783jhT24Mfhmi8UiOJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EscapeGame.Game" />
+      <module name="Lab5_JavaFX-EscapeGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28892941-1df3-4bb8-9555-606e2861f85c" name="Default Changelist" comment="" />
+      <created>1589981740608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589981740608</updated>
+      <workItem from="1589981744105" duration="12811000" />
+      <workItem from="1590149424503" duration="1298000" />
+      <workItem from="1590150801850" duration="7000" />
+      <workItem from="1590223765611" duration="578000" />
+      <workItem from="1590323737732" duration="462000" />
+      <workItem from="1590357191340" duration="2389000" />
+      <workItem from="1590497060526" duration="166000" />
+      <workItem from="1590497400425" duration="96000" />
+      <workItem from="1590497628067" duration="895000" />
+      <workItem from="1591474944239" duration="306000" />
+      <workItem from="1593101665390" duration="224000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1038" y="447" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590359490612">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1038" y="447" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1400@0.0.2560.1400" timestamp="1590359490612" />
+    <state x="1060" y="401" key="FileChooserDialogImpl" timestamp="1590357579773">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="401" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1590357579773" />
+    <state width="2517" height="228" key="GridCell.Tab.0.bottom" timestamp="1590497225934">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="132" key="GridCell.Tab.0.bottom/-1920.346.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1589988165955" />
+    <state width="2517" height="228" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1590497225934" />
+    <state width="2517" height="228" key="GridCell.Tab.0.center" timestamp="1590497225934">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="132" key="GridCell.Tab.0.center/-1920.346.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1589988165954" />
+    <state width="2517" height="228" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1590497225934" />
+    <state width="2517" height="228" key="GridCell.Tab.0.left" timestamp="1590497225934">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="132" key="GridCell.Tab.0.left/-1920.346.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1589988165953" />
+    <state width="2517" height="228" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1590497225934" />
+    <state width="2517" height="228" key="GridCell.Tab.0.right" timestamp="1590497225934">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="132" key="GridCell.Tab.0.right/-1920.346.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1589988165954" />
+    <state width="2517" height="228" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1590497225934" />
+    <state x="945" y="399" key="NewModule_or_Project.wizard" timestamp="1590150720126">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="945" y="399" key="NewModule_or_Project.wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1590150720126" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1590224328216">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1590224328216" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1590224340472">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1590224340472" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Esame_2020-01-19_MakeARoad.jnlp">
+  <information>
+    <title>Esame_2020-01-19_MakeARoad</title>
+    <vendor>Thomas</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Esame_2020-01-19_MakeARoad.jar" size="12732" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Esame_2020-01-19_MakeARoad" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="esame.MakeARoad"  name="Esame_2020-01-19_MakeARoad" />
+  <update check="always"/>
+</jnlp>
